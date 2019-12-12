@@ -1,0 +1,26 @@
+Last reported position in ARC 2019 as at: 25 Nov 2019 19:00:49 UT
+For Boats in division 4A
+Taking part in leg from Las Palmas - Rodney Bay and -
+
+(Please note email headers from ISP's may show time as local time at ISP)
+Rankings are calculated from the DTD (Distance to destination) with no correction for TCF or Motoring
+
+RallyID,Boatname,Status,Division,TimeRecorded,Latitude,Longitude,DTD,VMG24
+56,Muttley,At Sea,4A,25/11/2019 16:00:25,26° 10.9' N,018° 44.1' W,2474.78,7.0
+23,Allegra,At Sea,4A,25/11/2019 12:00:15,24° 46.2' N,017° 55.3' W,2507.31,8.1
+51,Deo Juvante,At Sea,4A,25/11/2019 16:00:05,26° 08.6' N,017° 37.0' W,2534.07,7.1
+52,BioTrek,At Sea,4A,25/11/2019 16:00:05,24° 04.8' N,017° 04.2' W,2549.25,4.4
+98,Hallucine,At Sea,4A,25/11/2019 16:01:19,23° 55.3' N,016° 57.3' W,2554.7,5.4
+86,Greatcircle,At Sea,4A,25/11/2019 16:00:04,25° 13.3' N,017° 03.1' W,2557.41,4.6
+88,Shama,At Sea,4A,25/11/2019 16:00:14,25° 29.1' N,016° 59.4' W,2562.58,3.9
+154,Kilauea,At Sea,4A,25/11/2019 16:00:05,26° 16.1' N,017° 01.2' W,2566.86,3.7
+87,Sirli,At Sea,4A,25/11/2019 16:00:06,25° 27.6' N,016° 53.8' W,2567.41,3.7
+83,Zuri 3,At Sea,4A,25/11/2019 16:00:04,25° 26.7' N,016° 53.6' W,2567.5,3.5
+150,Elektra,At Sea,4A,25/11/2019 16:00:29,24° 38.0' N,016° 46.6' W,2568.48,3.1
+123,Moana,At Sea,4A,25/11/2019 16:00:29,25° 53.9' N,016° 53.1' W,2571.21,3.2
+85,Paloma,At Sea,4A,25/11/2019 12:01:30,25° 49.5' N,016° 51.9' W,2571.74,4.4
+78,Laura IV,At Sea,4A,25/11/2019 16:00:00,26° 41.4' N,016° 56.8' W,2574.29,3.5
+92,2 Canoës,At Sea,4A,25/11/2019 16:00:04,25° 05.7' N,016° 42.4' W,2575.16,3.1
+99,Amalia,At Sea,4A,25/11/2019 16:00:04,24° 31.9' N,016° 16.9' W,2594.72,3.1
+97,Hera,At Sea,4A,25/11/2019 16:00:04,25° 26.4' N,016° 18.4' W,2599.02,3.5
+139,Blue Ocean,At Sea,4A,25/11/2019 16:00:04,25° 42.1' N,016° 18.9' W,2600.34,3.6
