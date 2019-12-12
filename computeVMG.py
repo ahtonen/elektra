@@ -17,10 +17,10 @@ for twa, speeds in t.iterrows():
     vmgs.loc[twa,:] = speeds_vmg
 # %%
 # Create 90% polars for ARC
-pol = t.applymap(lambda x: 1.0*x)
-# downwind only
-pol = pol.iloc[9:-1,:]
-#%%
-pol.to_html("ARC-Elektra.html", justify='left')
+#pol = t.applymap(lambda x: 0.9*x)
 
+# Export VMGs and polars to html files (downwind only)
+t.iloc[9:-1,:].to_html("ARC-Elektra-polars.html", justify='left')
+vmgs.iloc[9:-1,:].to_html("ARC-Elektra-vmgs.html", justify='left')
+print("Polars and VMGs exported to html files.")
 # %%
